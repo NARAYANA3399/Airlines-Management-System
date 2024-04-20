@@ -24,12 +24,3 @@ Developer Org Usernme  :sasikumar@gdctirupati.com
 Developer Org Password :Gayatri@123
 Position               :Team Member
 
-
-Name of the Student :MURAGA REDDY GANESH REDDY
-Learning Track      :Salesforce-(Admin)
-Project Name        :Airlines Management System
-Trailhead Profile   :
-Developer Org Usernme  :
-Developer Org Password :Gayatri@123
-Position               :Team Member
-
